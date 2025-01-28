@@ -1,0 +1,4 @@
+// 1.21.4	-999999999-01-01T00:00:00	Bytes/Tags for minecraft:block
+59e555d47a88cd02da6533c44bb70b7a8b74171d data/minecraft/tags/block/mineable/pickaxe.json
+bad82012c9cf90693d7433bce9da459b075fd7ec data/minecraft/tags/block/needs_diamond_tool.json
+59e555d47a88cd02da6533c44bb70b7a8b74171d data/minecraft/tags/block/prevent_mob_spawning_inside.json

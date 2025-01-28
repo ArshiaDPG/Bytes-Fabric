@@ -1,0 +1,8 @@
+{
+  "parent": "bytes:block/base_turtle_tote",
+  "textures": {
+    "bottom": "bytes:block/netherite_turtle_tote_bottom",
+    "side": "bytes:block/netherite_turtle_tote_side",
+    "top": "bytes:block/netherite_turtle_tote_top"
+  }
+}

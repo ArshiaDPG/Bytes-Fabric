@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "minecraft:barrel",
+    "h": "minecraft:turtle_helmet"
+  },
+  "pattern": [
+    " h ",
+    " b ",
+    " h "
+  ],
+  "result": {
+    "count": 1,
+    "id": "bytes:turtle_tote"
+  }
+}

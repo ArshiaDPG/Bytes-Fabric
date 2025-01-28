@@ -1,0 +1,9 @@
+// 1.21.4	-999999999-01-01T00:00:00	Bytes/Model Definitions
+b2b3772e53ae225140ba187d7bc1c9a2ccf53729 assets/bytes/blockstates/netherite_turtle_tote.json
+4bff05ac26932136485ab65fab780fa596958b94 assets/bytes/blockstates/turtle_tote.json
+070c6e55df5babb252f9755ce3b900dd05d987a6 assets/bytes/items/netherite_turtle_tote.json
+8a7de9175866299e94326d651a01956536af92af assets/bytes/items/turtle_tote.json
+0c0ef1b2eedacfa75d6f5785782b2ee5e1c1ee22 assets/bytes/models/block/netherite_turtle_tote.json
+59d11ba0556396a7e78f1d1b41fe525e26df1eec assets/bytes/models/block/netherite_turtle_tote_open.json
+289cb43aa62baba93a81f2744a147389d6ad54bd assets/bytes/models/block/turtle_tote.json
+29cf1e03542fefb225b2820c91aa9f9ec178455f assets/bytes/models/block/turtle_tote_open.json

@@ -1,0 +1,3 @@
+// 1.21.4	-999999999-01-01T00:00:00	Bytes/Tags for minecraft:worldgen/biome
+bb6c1c73a158b198dc3fcb179bfe2342d104b33f data/bytes/tags/worldgen/biome/spawns_cold_turtles.json
+b18ac779164f298a466729973cf36c04cba8c3f3 data/bytes/tags/worldgen/biome/spawns_warm_turtles.json

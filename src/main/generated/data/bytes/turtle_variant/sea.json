@@ -1,0 +1,4 @@
+{
+  "biomes": "#minecraft:is_overworld",
+  "texture": "minecraft:textures/entity/turtle/big_sea_turtle"
+}
